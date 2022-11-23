@@ -16,7 +16,14 @@ The files are created through python 3-
 ```
 $ python3 -m coverage run -m unittest
 ```
-
-
+Executable:
+For first file:
+```
+$ ./part1.py
+```
+For second file:
+```
+$ ./part2.py
+```
 
  
