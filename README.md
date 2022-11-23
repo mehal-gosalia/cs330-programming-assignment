@@ -8,6 +8,12 @@
 
 ## Setting up:
 
+Git clone:
+
 git clone https://github.com/mehal-gosalia/cs330-programming-assignment.git
+
+executable:
+
+$ python3 main.py
 
  
