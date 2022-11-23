@@ -8,6 +8,6 @@
 
 ## Setting up:
 
-$ git clone https://github.com/mehal-gosalia/cs330-programming-assignment.git
+git clone https://github.com/mehal-gosalia/cs330-programming-assignment.git
 
  
