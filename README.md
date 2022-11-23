@@ -8,12 +8,15 @@
 
 ## Setting up:
 
-Git clone:
+Cloning the repository-
+```
+$ git clone https:/mehal-gosalia/cs330-programming-assignment.git
+```
+The files are created through python 3-
+```
+$ python3 -m coverage run -m unittest
+```
 
-git clone https://github.com/mehal-gosalia/cs330-programming-assignment.git
 
-executable:
-
-$ python3 main.py
 
  
